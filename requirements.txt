@@ -6,11 +6,6 @@ argon2-cffi-bindings==21.2.0
 asttokens==2.0.5
 attrs==21.4.0
 Babel==2.9.1
-backcall==0.2.0
-beautifulsoup4==4.11.1
-billiard==3.6.4.0
-bleach==5.0.0
-blinker==1.4
 cachetools==5.2.0
 celery==5.2.6
 certifi==2021.10.8
@@ -82,9 +77,6 @@ platformdirs==2.5.2
 playsound==1.2.2
 prometheus-client==0.14.1
 prompt-toolkit==3.0.29
-protobuf==3.20.3
-psutil==5.9.0
-pure-eval==0.2.2
 pyarrow==9.0.0
 pycparser==2.21
 pydeck==0.8.0b3
