@@ -53,4 +53,8 @@ notebook==6.4.10
 notebook-shim==0.1.0
 numpy==1.22.3
 packaging==21.3
-
+greenlet==1.1.2
+idna==3.3
+jupyter-client==7.2.2
+jupyter-core==4.9.2
+jupyter-server==1.16.0
