@@ -1,1 +1,1 @@
-web: setup.sh && streamlit Big_mart.py
+web:setup.sh && streamlit Big_mart.py
